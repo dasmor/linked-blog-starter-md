@@ -1,0 +1,1 @@
+Child of [[Set]] extends AbstractSet implements SequencedCollection>SequencedSet>SortedSet>NavigableSet. Extends AbstractSet.
