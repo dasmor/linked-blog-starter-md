@@ -1,0 +1,1 @@
+Allow us to change object inside stream

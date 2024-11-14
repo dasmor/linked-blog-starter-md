@@ -1,0 +1,1 @@
+Part of [[ApplicationContext]] realization of [[IoC inversion of control]] 

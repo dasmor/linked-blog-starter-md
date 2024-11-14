@@ -1,0 +1,1 @@
+Use monitor of object ([[Object Header]]) If used in method that use **current** Object monitor.
